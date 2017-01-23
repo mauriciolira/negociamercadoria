@@ -45,7 +45,7 @@ body {
 					?>
 			  </div>
 			</table><br><br>
-            	<a href="http://localhost/appweb/cadastromercadoria.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA CONTINUAR</a> 
+            	<a href="http://191.193.166.45:888/appweb/visualizacao.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA CONTINUAR</a> 
             </form>
         </body>
 </html>
