@@ -44,7 +44,7 @@ function validacao() {
 </script>
 </head>
 <body>
-<a href="http://191.193.166.45:888/appweb/visualizacao.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA VISUALIZAR A LISTA DE OPERAÇÕES</a> 	
+<a href="http://179.228.49.69:888/appweb/visualizacao.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA VISUALIZAR A LISTA DE OPERAÇÕES</a> 	
 <form name="form1" method="post" action="obtemcadastro.php" onsubmit="return validacao();">
 <div align="center">
   <table width="200" border="0" align="center">
@@ -65,7 +65,7 @@ function validacao() {
       <td><input name="quantidade" type= "text" size= "10"/> </td>
       </tr>
     <tr>
-      <td width= "100" bgcolor="#F5A8AA"><h2>PRECO</h2></td>
+      <td width= "100" bgcolor="#F5A8AA"><h2>PREÇO</h2></td>
       <td><input name="preco" type= "text" size= "10"/> </td>
       </tr>
     <tr>
