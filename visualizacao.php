@@ -22,7 +22,7 @@ body {
             	<td bgcolor="#F5F3F3" style="color: #F50909">Tipo</td>
                 <td bgcolor="#F5F3F3" style="color: #F50909">Nome</td>
                 <td bgcolor="#F5F3F3" style="color: #F50909">Quantidade</td>
-                <td bgcolor="#F5F3F3" style="color: #F50909">Preco</td>
+                <td bgcolor="#F5F3F3" style="color: #F50909">Preço</td>
                 <td nowrap="nowrap" bgcolor="#F5F3F3" style="color: #F50909">Tipo do negócio</td>
                 </tr>
                 <?php 
@@ -45,7 +45,7 @@ body {
 					?>
 			  </div>
 			</table><br><br>
-            	<a href="http://191.193.166.45:888/appweb/cadastromercadoria.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA CONTINUAR</a> 
+            	<a href="http://179.228.49.69:888/appweb/cadastromercadoria.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA CONTINUAR</a> 
             </form>
         </body>
 </html>
