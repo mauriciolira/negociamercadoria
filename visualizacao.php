@@ -45,7 +45,7 @@ body {
 					?>
 			  </div>
 			</table><br><br>
-            	<a href="http://179.228.49.69:888/appweb/cadastromercadoria.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA CONTINUAR</a> 
+            	<a href="http://negociamercadoria.hopto.org:888/appweb/cadastromercadoria.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA CONTINUAR</a> 
             </form>
         </body>
 </html>
