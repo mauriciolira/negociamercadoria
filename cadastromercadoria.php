@@ -44,7 +44,7 @@ function validacao() {
 </script>
 </head>
 <body>
-<a href="http://179.228.49.69:888/appweb/visualizacao.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA VISUALIZAR A LISTA DE OPERAÇÕES</a> 	
+<a href="http://negociamercadoria.hopto.org:888/appweb/cadastromercadoria.php" target="_blank" style="color: #E9EF0B">CLIQUE AQUI PARA VISUALIZAR A LISTA DE OPERAÇÕES</a> 	
 <form name="form1" method="post" action="obtemcadastro.php" onsubmit="return validacao();">
 <div align="center">
   <table width="200" border="0" align="center">
